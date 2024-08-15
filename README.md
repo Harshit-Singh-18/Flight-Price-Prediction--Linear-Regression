@@ -1,4 +1,4 @@
-# Data Analysis and Model Optimization
+# Linear Regression on Flight Price Prediction
 
 ## Description
 
